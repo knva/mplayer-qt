@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mplayer/LICENSE.txt</file>
+        <file>mplayer/mplayer.exe</file>
+        <file>mplayer/README.txt</file>
+    </qresource>
+</RCC>
